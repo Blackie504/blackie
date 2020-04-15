@@ -8,7 +8,11 @@
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>netty</name>
+<<<<<<< Updated upstream
     <description>netty demo</description>
+=======
+    <description>Demo project for Spring</description>
+>>>>>>> Stashed changes
 
     <build>
         <plugins>

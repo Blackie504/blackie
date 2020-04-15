@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>netty</name>
-    <description>Demo project for Spring Boot</description>
+    <description>netty demo</description>
 
     <build>
         <plugins>
